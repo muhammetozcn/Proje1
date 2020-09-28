@@ -1,7 +1,7 @@
 [{
-    "name": "Ahmet",
-    "surname": "Ozcan",
-    "email": "ahmet.ozcan@gmail.com",
+    "name": "abc",
+    "surname": "cdf",
+    "email": "abc.cdf@gmail.com",
     "phoneNumber": "0511 555 55 55",
     "employeeStartDate": "2020-09-26T06:40:34.230Z",
     "salary": 3500,
@@ -10,9 +10,9 @@
     "director": "Director A"
 },
 {
-    "name": "Veli",
-    "surname": "Ozcan",
-    "email": "veli.ozcan@gmail.com",
+    "name": "xyz",
+    "surname": "abc",
+    "email": "xyz.abc@gmail.com",
     "phoneNumber": "0511 555 55 55",
     "employeeStartDate": "2020-09-26T06:40:34.230Z",
     "salary": 7500,
@@ -22,9 +22,9 @@
 }
 ,
 {
-    "name": "Mehmet",
-    "surname": "Ozcan",
-    "email": "mehmet.ozcan@gmail.com",
+    "name": "wer",
+    "surname": "sda",
+    "email": "wer.sda@gmail.com",
     "phoneNumber": "0511 555 55 55",
     "employeeStartDate": "2020-09-26T06:40:34.230Z",
     "salary": 4500,
