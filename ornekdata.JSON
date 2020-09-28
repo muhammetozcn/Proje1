@@ -1,0 +1,35 @@
+[{
+    "name": "Ahmet",
+    "surname": "Ozcan",
+    "email": "ahmet.ozcan@gmail.com",
+    "phoneNumber": "0511 555 55 55",
+    "employeeStartDate": "2020-09-26T06:40:34.230Z",
+    "salary": 3500,
+    "department": "Yazilim",
+    "titles": "Junior Software Engineer",
+    "director": "Director A"
+},
+{
+    "name": "Veli",
+    "surname": "Ozcan",
+    "email": "veli.ozcan@gmail.com",
+    "phoneNumber": "0511 555 55 55",
+    "employeeStartDate": "2020-09-26T06:40:34.230Z",
+    "salary": 7500,
+    "department": "Donanım",
+    "titles": "Software Engineer",
+    "director": "Director A"
+}
+,
+{
+    "name": "Mehmet",
+    "surname": "Ozcan",
+    "email": "mehmet.ozcan@gmail.com",
+    "phoneNumber": "0511 555 55 55",
+    "employeeStartDate": "2020-09-26T06:40:34.230Z",
+    "salary": 4500,
+    "department": "Donanım",
+    "titles": "Computer Engineer",
+    "director": "Director B"
+}
+]

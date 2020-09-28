@@ -1,0 +1,22 @@
+
+CREATE TABLE public.employeeinfo
+(
+    id integer NOT NULL GENERATED ALWAYS AS IDENTITY ( INCREMENT 1 START 1 MINVALUE 1 MAXVALUE 1000000 CACHE 1 ),
+    name character varying(30) COLLATE pg_catalog."default" NOT NULL,
+    surname character varying(30) COLLATE pg_catalog."default" NOT NULL,
+    email character varying(45) COLLATE pg_catalog."default",
+    "phoneNumber" character varying(30) COLLATE pg_catalog."default",
+    "employeeStartDate" date,
+    salary integer,
+    title character varying(30) COLLATE pg_catalog."default",
+    department character varying(30) COLLATE pg_catalog."default",
+    director character varying(50) COLLATE pg_catalog."default",
+    CONSTRAINT "EmployeeInfo_pkey" PRIMARY KEY (id)
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+ALTER TABLE public.employeeinfo
+    OWNER to postgres;
